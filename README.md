@@ -2,6 +2,11 @@
 
 This project is a desktop application developed in Python that allows users to convert PDF documents into audio files. Using a simple graphical user interface (GUI) built with wxPython, users can select a PDF file, choose the language for the audio output, and then convert the text into spoken words using Google's Text-to-Speech (gTTS) service. The result is an MP3 file that can be downloaded and listened to offline. This tool is especially useful for visually impaired users or anyone who prefers to listen to text rather than read it.
 
+# Demonstration Video
+
+Watch the "PDF to Audio Converter in Action" to see how easily you can convert PDF documents into audio files using our desktop application. This video guide demonstrates each step from selecting your PDF document to downloading the converted audio file.
+
+
 ## Installation
 
 Before running this application, ensure you have Python installed on your system. This project was developed using Python 3.8, but it should be compatible with other Python 3 versions.
@@ -11,7 +16,7 @@ Before running this application, ensure you have Python installed on your system
 3. Install the required packages by running:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 The `requirements.txt` file includes the following libraries:
@@ -25,7 +30,7 @@ The `requirements.txt` file includes the following libraries:
 To start the application, navigate to the project directory and run:
 
 ```bash
-python pdfToAudio.py
+python3 pdfToAudio.py
 ```
 
 ### Step-by-Step Guide:
