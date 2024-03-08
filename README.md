@@ -46,7 +46,6 @@ python3 pdfToAudio.py
 
 - **[PyPDF2](https://pypi.org/project/PyPDF2/):** For reading PDF files and extracting text.
 - **[gTTS (Google Text-to-Speech)](https://pypi.org/project/gTTS/):** For converting text into speech.
-- **[Pillow](https://pypi.org/project/Pillow/):** (Not directly used in the script but included in requirements, possibly for future enhancements or GUI elements.)
 - **[wxPython](https://www.wxpython.org/):** For creating the graphical user interface.
 
 ## Contributing
@@ -54,8 +53,4 @@ python3 pdfToAudio.py
 Contributions to improve the application are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-Please ensure you have a `LICENSE` file in your repository if you mention it in the README. If you plan to use a different license, update the README accordingly.
+[MIT](https://choosealicense.com/licenses/mit/)
