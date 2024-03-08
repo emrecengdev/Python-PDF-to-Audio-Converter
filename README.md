@@ -6,6 +6,7 @@ This project is a desktop application developed in Python that allows users to c
 
 Watch the "PDF to Audio Converter in Action" to see how easily you can convert PDF documents into audio files using our desktop application. This video guide demonstrates each step from selecting your PDF document to downloading the converted audio file.
 
+https://github.com/emrecengdev/Python-PDF-to-Audio-Converter/assets/76089961/79d1ffa5-f1d1-4da9-9872-d20d868b2a16
 
 ## Installation
 
