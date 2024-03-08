@@ -1,6 +1,3 @@
-Based on the script you've provided, here's a detailed README.md in English and Markdown format. This README includes a brief introduction, installation instructions, usage guide, and acknowledges the libraries used in your project.
-
-```markdown
 # PDF to Audio Converter
 
 This project is a desktop application developed in Python that allows users to convert PDF documents into audio files. Using a simple graphical user interface (GUI) built with wxPython, users can select a PDF file, choose the language for the audio output, and then convert the text into spoken words using Google's Text-to-Speech (gTTS) service. The result is an MP3 file that can be downloaded and listened to offline. This tool is especially useful for visually impaired users or anyone who prefers to listen to text rather than read it.
